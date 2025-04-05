@@ -1,5 +1,5 @@
 # Source Code and Data
-Source code and data to generate analyzes of the article "Lost in translation: bridging the qualitative and quantitative descriptions of facial features" 
+Source code and data to generate analyzes of the article "Agree to disagree: reliability of facial feature size descriptions across expertise levels". 
 
 # Manuscript
 This study evaluates... 
