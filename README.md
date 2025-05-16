@@ -16,7 +16,3 @@ A ground truth dataset provides a reference for assessing the accuracy of qualit
 #### Sensitivity    
 To identify which size categories (1 = small, 2 = medium, 3 = large) were effectively classified, we calculated the true positive rate (sensitivity). This represents the proportion of qualitative descriptions that correctly match the quantitative classification provided by the ground truth. 
 ![This is an image](https://github.com/arodifr/Mapping/blob/main/Sensitivity_values.png)
-
-
-
-
